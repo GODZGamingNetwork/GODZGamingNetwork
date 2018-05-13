@@ -1,0 +1,3460 @@
+{
+    "Boats": {
+        "dinghy": {
+            "className": "Boats",
+            "hash": 1033245328,
+            "makeName": "Nagasaki",
+            "modelName": "Dinghy 4 Seat, Red"
+        },
+        "dinghy2": {
+            "className": "Boats",
+            "hash": 276773164,
+            "makeName": "Nagasaki",
+            "modelName": "Dinghy 2 Seat"
+        },
+        "dinghy3": {
+            "className": "Boats",
+            "hash": 509498602,
+            "makeName": "Nagasaki",
+            "modelName": "Dinghy 4 Seat, Black"
+        },
+        "dinghy4": {
+            "className": "Boats",
+            "hash": 867467158,
+            "makeName": "Nagasaki",
+            "modelName": "Dinghy 4 Seat, Yacht"
+        },
+        "jetmax": {
+            "className": "Boats",
+            "hash": 861409633,
+            "makeName": "Shitzu",
+            "modelName": "Jetmax"
+        },
+        "marquis": {
+            "className": "Boats",
+            "hash": 3251507587,
+            "makeName": "Nagasaki",
+            "modelName": "Dinghy"
+        },
+        "predator": {
+            "className": "Boats",
+            "hash": 3806844075,
+            "makeName": "",
+            "modelName": "Police Predator"
+        },
+        "seashark": {
+            "className": "Boats",
+            "hash": 3264692260,
+            "makeName": "Speedophile",
+            "modelName": "Seashark"
+        },
+        "seashark2": {
+            "className": "Boats",
+            "hash": 3678636260,
+            "makeName": "Speedophile",
+            "modelName": "Seashark Lifeguard"
+        },
+        "seashark3": {
+            "className": "Boats",
+            "hash": 3983945033,
+            "makeName": "Speedophile",
+            "modelName": "Seashark Yacht"
+        },
+        "speeder": {
+            "className": "Boats",
+            "hash": 231083307,
+            "makeName": "Pegassi",
+            "modelName": "Speeder"
+        },
+        "speeder2": {
+            "className": "Boats",
+            "hash": 437538602,
+            "makeName": "Pegassi",
+            "modelName": "Speeder Yacht"
+        },
+        "squalo": {
+            "className": "Boats",
+            "hash": 400514754,
+            "makeName": "Shitzu",
+            "modelName": "Squalo"
+        },
+        "submersible": {
+            "className": "Boats",
+            "hash": 771711535,
+            "makeName": "",
+            "modelName": "Submersible"
+        },
+        "submersible2": {
+            "className": "Boats",
+            "hash": 3228633070,
+            "makeName": "",
+            "modelName": "Kraken"
+        },
+        "suntrap": {
+            "className": "Boats",
+            "hash": 4012021193,
+            "makeName": "Shitzu",
+            "modelName": "Suntrap"
+        },
+        "toro": {
+            "className": "Boats",
+            "hash": 1070967343,
+            "makeName": "Lampadati",
+            "modelName": "Toro"
+        },
+        "toro2": {
+            "className": "Boats",
+            "hash": 908897389,
+            "makeName": "Lampadati",
+            "modelName": "Toro Yacht"
+        },
+        "tropic": {
+            "className": "Boats",
+            "hash": 290013743,
+            "makeName": "Shitzu",
+            "modelName": "Tropic"
+        },
+        "tropic2": {
+            "className": "Boats",
+            "hash": 1448677353,
+            "makeName": "Shitzu",
+            "modelName": "Tropic Yacht"
+        },
+        "tug": {
+            "className": "Boats",
+            "hash": 2194326579,
+            "makeName": "Nagasaki",
+            "modelName": "Dinghy"
+        }
+    },
+    "Commercial": {
+        "benson": {
+            "className": "Commercial",
+            "hash": 2053223216,
+            "makeName": "Vapid",
+            "modelName": "Benson"
+        },
+        "biff": {
+            "className": "Commercial",
+            "hash": 850991848,
+            "makeName": "HVY",
+            "modelName": "Biff"
+        },
+        "hauler": {
+            "className": "Commercial",
+            "hash": 1518533038,
+            "makeName": "JoBuilt",
+            "modelName": "Hauler"
+        },
+        "hauler2": {
+            "className": "Commercial",
+            "hash": 387748548,
+            "makeName": "JoBuilt",
+            "modelName": "Hauler Custom"
+        },
+        "mule": {
+            "className": "Commercial",
+            "hash": 904750859,
+            "makeName": "Maibatsu",
+            "modelName": "Mule Graphics 1"
+        },
+        "mule2": {
+            "className": "Commercial",
+            "hash": 3244501995,
+            "makeName": "Maibatsu",
+            "modelName": "Mule Graphics 2"
+        },
+        "mule3": {
+            "className": "Commercial",
+            "hash": 2242229361,
+            "makeName": "Maibatsu",
+            "modelName": "Mule Plain"
+        },
+        "packer": {
+            "className": "Commercial",
+            "hash": 569305213,
+            "makeName": "MTL",
+            "modelName": "Packer"
+        },
+        "phantom": {
+            "className": "Commercial",
+            "hash": 2157618379,
+            "makeName": "JoBuilt",
+            "modelName": "Phantom"
+        },
+        "phantom2": {
+            "className": "Commercial",
+            "hash": 2645431192,
+            "makeName": "JoBuilt",
+            "modelName": "Phantom Wedge"
+        },
+        "phantom3": {
+            "className": "Commercial",
+            "hash": 177270108,
+            "makeName": "JoBuilt",
+            "modelName": "Phantom Custom"
+        },
+        "pounder": {
+            "className": "Commercial",
+            "hash": 2112052861,
+            "makeName": "MTL",
+            "modelName": "Pounder"
+        },
+        "stockade": {
+            "className": "Commercial",
+            "hash": 1747439474,
+            "makeName": "Brute",
+            "modelName": "Stockade"
+        },
+        "stockade3": {
+            "className": "Commercial",
+            "hash": 4080511798,
+            "makeName": "Brute",
+            "modelName": "Stockade Snow"
+        }
+    },
+    "Compacts": {
+        "blista": {
+            "className": "Compacts",
+            "hash": 3950024287,
+            "makeName": "Dinka",
+            "modelName": "Blista"
+        },
+        "brioso": {
+            "className": "Compacts",
+            "hash": 1549126457,
+            "makeName": "Grotti",
+            "modelName": "Brioso R/A"
+        },
+        "dilettante": {
+            "className": "Compacts",
+            "hash": 3164157193,
+            "makeName": "Karin",
+            "modelName": "Dilettante"
+        },
+        "dilettante2": {
+            "className": "Compacts",
+            "hash": 1682114128,
+            "makeName": "Karin",
+            "modelName": "Dilettante Security"
+        },
+        "issi2": {
+            "className": "Compacts",
+            "hash": 3117103977,
+            "makeName": "Weeny",
+            "modelName": "Issi"
+        },
+        "panto": {
+            "className": "Compacts",
+            "hash": 3863274624,
+            "makeName": "Benefactor",
+            "modelName": "Panto"
+        },
+        "prairie": {
+            "className": "Compacts",
+            "hash": 2844316578,
+            "makeName": "Bollokan",
+            "modelName": "Prairie"
+        },
+        "rhapsody": {
+            "className": "Compacts",
+            "hash": 841808271,
+            "makeName": "Declasse",
+            "modelName": "Rhapsody"
+        }
+    },
+    "Coupes": {
+        "cogcabrio": {
+            "className": "Coupes",
+            "hash": 330661258,
+            "makeName": "Enus",
+            "modelName": "Cognoscenti Cabrio"
+        },
+        "exemplar": {
+            "className": "Coupes",
+            "hash": 4289813342,
+            "makeName": "Dewbauchee",
+            "modelName": "Exemplar"
+        },
+        "f620": {
+            "className": "Coupes",
+            "hash": 3703357000,
+            "makeName": "Ocelot",
+            "modelName": "F620"
+        },
+        "felon": {
+            "className": "Coupes",
+            "hash": 3903372712,
+            "makeName": "Lampadati",
+            "modelName": "Felon"
+        },
+        "felon2": {
+            "className": "Coupes",
+            "hash": 4205676014,
+            "makeName": "Lampadati",
+            "modelName": "Felon GT"
+        },
+        "jackal": {
+            "className": "Coupes",
+            "hash": 3670438162,
+            "makeName": "Ocelot",
+            "modelName": "Jackal"
+        },
+        "oracle": {
+            "className": "Coupes",
+            "hash": 1348744438,
+            "makeName": "Ubermacht",
+            "modelName": "Oracle XS"
+        },
+        "oracle2": {
+            "className": "Coupes",
+            "hash": 3783366066,
+            "makeName": "Ubermacht",
+            "modelName": "Oracle"
+        },
+        "sentinel": {
+            "className": "Coupes",
+            "hash": 1349725314,
+            "makeName": "Ubermacht",
+            "modelName": "Sentinel XS"
+        },
+        "sentinel2": {
+            "className": "Coupes",
+            "hash": 873639469,
+            "makeName": "Ubermacht",
+            "modelName": "Sentinel"
+        },
+        "windsor": {
+            "className": "Coupes",
+            "hash": 1581459400,
+            "makeName": "Enus",
+            "modelName": "Windsor"
+        },
+        "windsor2": {
+            "className": "Coupes",
+            "hash": 2364918497,
+            "makeName": "Enus",
+            "modelName": "Windsor Drop"
+        },
+        "zion": {
+            "className": "Coupes",
+            "hash": 3172678083,
+            "makeName": "Ubermacht",
+            "modelName": "Zion"
+        },
+        "zion2": {
+            "className": "Coupes",
+            "hash": 3101863448,
+            "makeName": "Ubermacht",
+            "modelName": "Zion Cabrio"
+        }
+    },
+    "Cycles": {
+        "bmx": {
+            "className": "Cycles",
+            "hash": 1131912276,
+            "makeName": "",
+            "modelName": "BMX"
+        },
+        "cruiser": {
+            "className": "Cycles",
+            "hash": 448402357,
+            "makeName": "",
+            "modelName": "Cruiser"
+        },
+        "fixter": {
+            "className": "Cycles",
+            "hash": 3458454463,
+            "makeName": "",
+            "modelName": "Fixter"
+        },
+        "scorcher": {
+            "className": "Cycles",
+            "hash": 4108429845,
+            "makeName": "",
+            "modelName": "Scorcher"
+        },
+        "tribike": {
+            "className": "Cycles",
+            "hash": 1127861609,
+            "makeName": "",
+            "modelName": "Whippet Race Bike"
+        },
+        "tribike2": {
+            "className": "Cycles",
+            "hash": 3061159916,
+            "makeName": "",
+            "modelName": "Endurex Race Bike"
+        },
+        "tribike3": {
+            "className": "Cycles",
+            "hash": 3894672200,
+            "makeName": "",
+            "modelName": "Tri-Cycles Race Bike"
+        }
+    },
+    "Emergency": {
+        "0x9B16A3B4": {
+            "className": "Emergency",
+            "hash": 2601952180,
+            "makeName": "",
+            "modelName": "RCV"
+        },
+        "ambulance": {
+            "className": "Emergency",
+            "hash": 1171614426,
+            "makeName": "",
+            "modelName": "Ambulance"
+        },
+        "fbi": {
+            "className": "Emergency",
+            "hash": 1127131465,
+            "makeName": "",
+            "modelName": "FIB Buffalo"
+        },
+        "fbi2": {
+            "className": "Emergency",
+            "hash": 2647026068,
+            "makeName": "",
+            "modelName": "FIB Granger"
+        },
+        "firetruk": {
+            "className": "Emergency",
+            "hash": 1938952078,
+            "makeName": "",
+            "modelName": "Fire Truck"
+        },
+        "lguard": {
+            "className": "Emergency",
+            "hash": 469291905,
+            "makeName": "",
+            "modelName": "Lifeguard"
+        },
+        "pbus": {
+            "className": "Emergency",
+            "hash": 2287941233,
+            "makeName": "",
+            "modelName": "Prison Bus"
+        },
+        "police": {
+            "className": "Emergency",
+            "hash": 2046537925,
+            "makeName": "",
+            "modelName": "Police Cruiser"
+        },
+        "police2": {
+            "className": "Emergency",
+            "hash": 2667966721,
+            "makeName": "",
+            "modelName": "Police Cruiser Buffalo"
+        },
+        "police3": {
+            "className": "Emergency",
+            "hash": 1912215274,
+            "makeName": "",
+            "modelName": "Police Cruiser Interceptor"
+        },
+        "police4": {
+            "className": "Emergency",
+            "hash": 2321795001,
+            "makeName": "",
+            "modelName": "Unmarked Cruiser"
+        },
+        "policeb": {
+            "className": "Emergency",
+            "hash": 4260343491,
+            "makeName": "",
+            "modelName": "Police Bike"
+        },
+        "policeold1": {
+            "className": "Emergency",
+            "hash": 2758042359,
+            "makeName": "",
+            "modelName": "Police Rancher"
+        },
+        "policeold2": {
+            "className": "Emergency",
+            "hash": 2515846680,
+            "makeName": "",
+            "modelName": "Police Roadcruiser"
+        },
+        "policet": {
+            "className": "Emergency",
+            "hash": 456714581,
+            "makeName": "",
+            "modelName": "Police Transporter"
+        },
+        "pranger": {
+            "className": "Emergency",
+            "hash": 741586030,
+            "makeName": "",
+            "modelName": "Park Ranger"
+        },
+        "riot": {
+            "className": "Emergency",
+            "hash": 3089277354,
+            "makeName": "",
+            "modelName": "Police Riot"
+        },
+        "sheriff": {
+            "className": "Emergency",
+            "hash": 2611638396,
+            "makeName": "",
+            "modelName": "Sheriff Cruiser"
+        },
+        "sheriff2": {
+            "className": "Emergency",
+            "hash": 1922257928,
+            "makeName": "",
+            "modelName": "Sheriff SUV"
+        }
+    },
+    "Helicopters": {
+        "0x46699F47": {
+            "className": "Helicopters",
+            "hash": 1181327175,
+            "makeName": "",
+            "modelName": "Akula"
+        },
+        "annihilator": {
+            "className": "Helicopters",
+            "hash": 837858166,
+            "makeName": "",
+            "modelName": "Annihilator"
+        },
+        "buzzard": {
+            "className": "Helicopters",
+            "hash": 788747387,
+            "makeName": "",
+            "modelName": "Buzzard Attack Chopper"
+        },
+        "buzzard2": {
+            "className": "Helicopters",
+            "hash": 745926877,
+            "makeName": "",
+            "modelName": "Buzzard"
+        },
+        "cargobob": {
+            "className": "Helicopters",
+            "hash": 4244420235,
+            "makeName": "",
+            "modelName": "Cargobob Camo"
+        },
+        "cargobob2": {
+            "className": "Helicopters",
+            "hash": 1621617168,
+            "makeName": "",
+            "modelName": "Cargobob Jetsam"
+        },
+        "cargobob3": {
+            "className": "Helicopters",
+            "hash": 1394036463,
+            "makeName": "",
+            "modelName": "Cargobob Camo TPE"
+        },
+        "cargobob4": {
+            "className": "Helicopters",
+            "hash": 2025593404,
+            "makeName": "",
+            "modelName": "Cargobob Camo Closed"
+        },
+        "frogger": {
+            "className": "Helicopters",
+            "hash": 744705981,
+            "makeName": "",
+            "modelName": "Frogger"
+        },
+        "frogger2": {
+            "className": "Helicopters",
+            "hash": 1949211328,
+            "makeName": "",
+            "modelName": "Frogger TPE/FIB"
+        },
+        "havok": {
+            "className": "Helicopters",
+            "hash": 2310691317,
+            "makeName": "Nagasaki",
+            "modelName": "Havok"
+        },
+        "hunter": {
+            "className": "Helicopters",
+            "hash": 4252008158,
+            "makeName": "",
+            "modelName": "FH-1 Hunter"
+        },
+        "maverick": {
+            "className": "Helicopters",
+            "hash": 2634305738,
+            "makeName": "",
+            "modelName": "Maverick"
+        },
+        "polmav": {
+            "className": "Helicopters",
+            "hash": 353883353,
+            "makeName": "",
+            "modelName": "Police Maverick"
+        },
+        "savage": {
+            "className": "Helicopters",
+            "hash": 4212341271,
+            "makeName": "",
+            "modelName": "Savage"
+        },
+        "skylift": {
+            "className": "Helicopters",
+            "hash": 1044954915,
+            "makeName": "",
+            "modelName": "Skylift"
+        },
+        "supervolito": {
+            "className": "Helicopters",
+            "hash": 710198397,
+            "makeName": "Buckingham",
+            "modelName": "SuperVolito"
+        },
+        "supervolito2": {
+            "className": "Helicopters",
+            "hash": 2623428164,
+            "makeName": "Buckingham",
+            "modelName": "SuperVolito Carbon"
+        },
+        "swift": {
+            "className": "Helicopters",
+            "hash": 3955379698,
+            "makeName": "Buckingham",
+            "modelName": "Swift"
+        },
+        "swift2": {
+            "className": "Helicopters",
+            "hash": 1075432268,
+            "makeName": "Buckingham",
+            "modelName": "Swift Deluxe"
+        },
+        "valkyrie": {
+            "className": "Helicopters",
+            "hash": 2694714877,
+            "makeName": "",
+            "modelName": "Valkyrie"
+        },
+        "valkyrie2": {
+            "className": "Helicopters",
+            "hash": 1543134283,
+            "makeName": "",
+            "modelName": "Valkyrie MOD.0"
+        },
+        "volatus": {
+            "className": "Helicopters",
+            "hash": 2449479409,
+            "makeName": "Buckingham",
+            "modelName": "Volatus"
+        }
+    },
+    "Industrial": {
+        "bulldozer": {
+            "className": "Industrial",
+            "hash": 1886712733,
+            "makeName": "HVY",
+            "modelName": "Dozer"
+        },
+        "cutter": {
+            "className": "Industrial",
+            "hash": 3288047904,
+            "makeName": "HVY",
+            "modelName": "Cutter"
+        },
+        "dump": {
+            "className": "Industrial",
+            "hash": 2164484578,
+            "makeName": "HVY",
+            "modelName": "Dump"
+        },
+        "flatbed": {
+            "className": "Industrial",
+            "hash": 1353720154,
+            "makeName": "MTL",
+            "modelName": "Flatbed"
+        },
+        "guardian": {
+            "className": "Industrial",
+            "hash": 2186977100,
+            "makeName": "Vapid",
+            "modelName": "Guardian"
+        },
+        "handler": {
+            "className": "Industrial",
+            "hash": 444583674,
+            "makeName": "",
+            "modelName": "Dock Handler"
+        },
+        "mixer": {
+            "className": "Industrial",
+            "hash": 3510150843,
+            "makeName": "HVY",
+            "modelName": "Mixer"
+        },
+        "mixer2": {
+            "className": "Industrial",
+            "hash": 475220373,
+            "makeName": "HVY",
+            "modelName": "Mixer Support Wheel"
+        },
+        "rubble": {
+            "className": "Industrial",
+            "hash": 2589662668,
+            "makeName": "JoBuilt",
+            "modelName": "Rubble"
+        },
+        "tiptruck": {
+            "className": "Industrial",
+            "hash": 48339065,
+            "makeName": "Brute",
+            "modelName": "Tipper"
+        },
+        "tiptruck2": {
+            "className": "Industrial",
+            "hash": 3347205726,
+            "makeName": "",
+            "modelName": "Tipper"
+        }
+    },
+    "Military": {
+        "0x58CDAF30": {
+            "className": "Military",
+            "hash": 1489874736,
+            "makeName": "Mammoth",
+            "modelName": "Thruster"
+        },
+        "0xAA6F980A": {
+            "className": "Military",
+            "hash": 2859440138,
+            "makeName": "",
+            "modelName": "TM-02 Khanjali"
+        },
+        "0xD6BC7523": {
+            "className": "Military",
+            "hash": 3602674979,
+            "makeName": "",
+            "modelName": "Chernobog"
+        },
+        "0xF34DFB25": {
+            "className": "Military",
+            "hash": 4081974053,
+            "makeName": "",
+            "modelName": "Barrage"
+        },
+        "apc": {
+            "className": "Military",
+            "hash": 562680400,
+            "makeName": "HVY",
+            "modelName": "APC"
+        },
+        "barracks": {
+            "className": "Military",
+            "hash": 3471458123,
+            "makeName": "HVY",
+            "modelName": "Barracks Semi"
+        },
+        "barracks2": {
+            "className": "Military",
+            "hash": 1074326203,
+            "makeName": "HVY",
+            "modelName": "Barracks Semi"
+        },
+        "barracks3": {
+            "className": "Military",
+            "hash": 630371791,
+            "makeName": "HVY",
+            "modelName": "Barracks short canvas"
+        },
+        "crusader": {
+            "className": "Military",
+            "hash": 321739290,
+            "makeName": "Canis",
+            "modelName": "Crusader"
+        },
+        "halftrack": {
+            "className": "Military",
+            "hash": 4262731174,
+            "makeName": "Bravado",
+            "modelName": "Half-track"
+        },
+        "rhino": {
+            "className": "Military",
+            "hash": 782665360,
+            "makeName": "",
+            "modelName": "Rhino Tank"
+        },
+        "trailersmall2": {
+            "className": "Military",
+            "hash": 2413121211,
+            "makeName": "Vom Feuer",
+            "modelName": "Anti-Aircraft Trailer"
+        }
+    },
+    "Motorcycles": {
+        "akuma": {
+            "className": "Motorcycles",
+            "hash": 1672195559,
+            "makeName": "Dinka",
+            "modelName": "Akuma"
+        },
+        "avarus": {
+            "className": "Motorcycles",
+            "hash": 2179174271,
+            "makeName": "LCC",
+            "modelName": "Avarus"
+        },
+        "bagger": {
+            "className": "Motorcycles",
+            "hash": 2154536131,
+            "makeName": "Western",
+            "modelName": "Bagger"
+        },
+        "bati": {
+            "className": "Motorcycles",
+            "hash": 4180675781,
+            "makeName": "Pegassi",
+            "modelName": "Bati 801"
+        },
+        "bati2": {
+            "className": "Motorcycles",
+            "hash": 3403504941,
+            "makeName": "Pegassi",
+            "modelName": "Bati 801RR"
+        },
+        "bf400": {
+            "className": "Motorcycles",
+            "hash": 86520421,
+            "makeName": "Nagasaki",
+            "modelName": "BF400"
+        },
+        "carbonrs": {
+            "className": "Motorcycles",
+            "hash": 11251904,
+            "makeName": "Nagasaki",
+            "modelName": "Carbon RS"
+        },
+        "chimera": {
+            "className": "Motorcycles",
+            "hash": 6774487,
+            "makeName": "Nagasaki",
+            "modelName": "Chimera"
+        },
+        "cliffhanger": {
+            "className": "Motorcycles",
+            "hash": 390201602,
+            "makeName": "Western",
+            "modelName": "Cliffhanger"
+        },
+        "daemon": {
+            "className": "Motorcycles",
+            "hash": 2006142190,
+            "makeName": "Western",
+            "modelName": "Daemon The Lost MC"
+        },
+        "daemon2": {
+            "className": "Motorcycles",
+            "hash": 2890830793,
+            "makeName": "Western",
+            "modelName": "Daemon"
+        },
+        "defiler": {
+            "className": "Motorcycles",
+            "hash": 822018448,
+            "makeName": "Shitzu",
+            "modelName": "Defiler"
+        },
+        "diablous": {
+            "className": "Motorcycles",
+            "hash": 4055125828,
+            "makeName": "Principe",
+            "modelName": "Diabolus"
+        },
+        "diablous2": {
+            "className": "Motorcycles",
+            "hash": 1790834270,
+            "makeName": "Principe",
+            "modelName": "Diabolus Custom"
+        },
+        "double": {
+            "className": "Motorcycles",
+            "hash": 2623969160,
+            "makeName": "Dinka",
+            "modelName": "Double-T"
+        },
+        "enduro": {
+            "className": "Motorcycles",
+            "hash": 1753414259,
+            "makeName": "Dinka",
+            "modelName": "Enduro"
+        },
+        "esskey": {
+            "className": "Motorcycles",
+            "hash": 2035069708,
+            "makeName": "Pegassi",
+            "modelName": "Esskey"
+        },
+        "faggio": {
+            "className": "Motorcycles",
+            "hash": 2452219115,
+            "makeName": "Pegassi",
+            "modelName": "Faggio Sport"
+        },
+        "faggio2": {
+            "className": "Motorcycles",
+            "hash": 55628203,
+            "makeName": "Pegassi",
+            "modelName": "Faggio"
+        },
+        "faggio3": {
+            "className": "Motorcycles",
+            "hash": 3005788552,
+            "makeName": "Pegassi",
+            "modelName": "Faggio Mod"
+        },
+        "fcr": {
+            "className": "Motorcycles",
+            "hash": 627535535,
+            "makeName": "Pegassi",
+            "modelName": "FCR 1000"
+        },
+        "fcr2": {
+            "className": "Motorcycles",
+            "hash": 3537231886,
+            "makeName": "Pegassi",
+            "modelName": "FCR 1000 Custom"
+        },
+        "gargoyle": {
+            "className": "Motorcycles",
+            "hash": 741090084,
+            "makeName": "Western",
+            "modelName": "Gargoyle"
+        },
+        "hakuchou": {
+            "className": "Motorcycles",
+            "hash": 1265391242,
+            "makeName": "Shitzu",
+            "modelName": "Hakuchou"
+        },
+        "hakuchou2": {
+            "className": "Motorcycles",
+            "hash": 4039289119,
+            "makeName": "Shitzu",
+            "modelName": "Hakuchou Drag"
+        },
+        "hexer": {
+            "className": "Motorcycles",
+            "hash": 301427732,
+            "makeName": "LCC",
+            "modelName": "Hexer"
+        },
+        "innovation": {
+            "className": "Motorcycles",
+            "hash": 4135840458,
+            "makeName": "LCC",
+            "modelName": "Innovation"
+        },
+        "lectro": {
+            "className": "Motorcycles",
+            "hash": 640818791,
+            "makeName": "Principe",
+            "modelName": "Lectro"
+        },
+        "manchez": {
+            "className": "Motorcycles",
+            "hash": 2771538552,
+            "makeName": "Maibatsu",
+            "modelName": "Manchez"
+        },
+        "nemesis": {
+            "className": "Motorcycles",
+            "hash": 3660088182,
+            "makeName": "Principe",
+            "modelName": "Nemesis"
+        },
+        "nightblade": {
+            "className": "Motorcycles",
+            "hash": 2688780135,
+            "makeName": "Western",
+            "modelName": "Nightblade"
+        },
+        "oppressor": {
+            "className": "Motorcycles",
+            "hash": 884483972,
+            "makeName": "Pegassi",
+            "modelName": "Oppressor"
+        },
+        "pcj": {
+            "className": "Motorcycles",
+            "hash": 3385765638,
+            "makeName": "Shitzu",
+            "modelName": "PCJ 600"
+        },
+        "ratbike": {
+            "className": "Motorcycles",
+            "hash": 1873600305,
+            "makeName": "Western",
+            "modelName": "Rat Bike"
+        },
+        "ruffian": {
+            "className": "Motorcycles",
+            "hash": 3401388520,
+            "makeName": "Pegassi",
+            "modelName": "Ruffian"
+        },
+        "sanchez": {
+            "className": "Motorcycles",
+            "hash": 788045382,
+            "makeName": "Maibatsu",
+            "modelName": "Sanchez (livery)"
+        },
+        "sanchez2": {
+            "className": "Motorcycles",
+            "hash": 2841686334,
+            "makeName": "Maibatsu",
+            "modelName": "Sanchez"
+        },
+        "sanctus": {
+            "className": "Motorcycles",
+            "hash": 1491277511,
+            "makeName": "LCC",
+            "modelName": "Sanctus"
+        },
+        "shotaro": {
+            "className": "Motorcycles",
+            "hash": 3889340782,
+            "makeName": "Nagasaki",
+            "modelName": "Shotaro"
+        },
+        "sovereign": {
+            "className": "Motorcycles",
+            "hash": 743478836,
+            "makeName": "Western",
+            "modelName": "Sovereign"
+        },
+        "thrust": {
+            "className": "Motorcycles",
+            "hash": 1836027715,
+            "makeName": "Dinka",
+            "modelName": "Thrust"
+        },
+        "vader": {
+            "className": "Motorcycles",
+            "hash": 4154065143,
+            "makeName": "Shitzu",
+            "modelName": "Vader"
+        },
+        "vindicator": {
+            "className": "Motorcycles",
+            "hash": 2941886209,
+            "makeName": "Dinka",
+            "modelName": "Vindicator"
+        },
+        "vortex": {
+            "className": "Motorcycles",
+            "hash": 3685342204,
+            "makeName": "Pegassi",
+            "modelName": "Vortex"
+        },
+        "wolfsbane": {
+            "className": "Motorcycles",
+            "hash": 3676349299,
+            "makeName": "Western",
+            "modelName": "Wolfsbane"
+        },
+        "zombiea": {
+            "className": "Motorcycles",
+            "hash": 3285698347,
+            "makeName": "Western",
+            "modelName": "Zombie Bobber"
+        },
+        "zombieb": {
+            "className": "Motorcycles",
+            "hash": 3724934023,
+            "makeName": "Western",
+            "modelName": "Zombie Chopper"
+        }
+    },
+    "Muscle": {
+        "0x00E83C17": {
+            "className": "Muscle",
+            "hash": 15219735,
+            "makeName": "Albany",
+            "modelName": "Hermes"
+        },
+        "0x23CA25F2": {
+            "className": "Muscle",
+            "hash": 600450546,
+            "makeName": "Vapid",
+            "modelName": "Hustler"
+        },
+        "0x6F946279": {
+            "className": "Muscle",
+            "hash": 1871995513,
+            "makeName": "Declasse",
+            "modelName": "Yosemite"
+        },
+        "blade": {
+            "className": "Muscle",
+            "hash": 3089165662,
+            "makeName": "Vapid",
+            "modelName": "Blade"
+        },
+        "buccaneer": {
+            "className": "Muscle",
+            "hash": 3612755468,
+            "makeName": "Albany",
+            "modelName": "Buccaneer"
+        },
+        "buccaneer2": {
+            "className": "Muscle",
+            "hash": 3281516360,
+            "makeName": "Albany",
+            "modelName": "Buccaneer Custom"
+        },
+        "chino": {
+            "className": "Muscle",
+            "hash": 349605904,
+            "makeName": "Vapid",
+            "modelName": "Chino"
+        },
+        "chino2": {
+            "className": "Muscle",
+            "hash": 2933279331,
+            "makeName": "Vapid",
+            "modelName": "Chino Custom"
+        },
+        "coquette3": {
+            "className": "Muscle",
+            "hash": 784565758,
+            "makeName": "Invetero",
+            "modelName": "Coquette BlackFin"
+        },
+        "dominator": {
+            "className": "Muscle",
+            "hash": 80636076,
+            "makeName": "Vapid",
+            "modelName": "Dominator"
+        },
+        "dominator2": {
+            "className": "Muscle",
+            "hash": 3379262425,
+            "makeName": "Vapid",
+            "modelName": "Pisswasser Dominator"
+        },
+        "dukes": {
+            "className": "Muscle",
+            "hash": 723973206,
+            "makeName": "Imponte",
+            "modelName": "Dukes"
+        },
+        "dukes2": {
+            "className": "Muscle",
+            "hash": 3968823444,
+            "makeName": "Imponte",
+            "modelName": "Duke O'Death"
+        },
+        "faction": {
+            "className": "Muscle",
+            "hash": 2175389151,
+            "makeName": "Willard",
+            "modelName": "Faction"
+        },
+        "faction2": {
+            "className": "Muscle",
+            "hash": 2504420315,
+            "makeName": "Willard",
+            "modelName": "Faction Custom"
+        },
+        "faction3": {
+            "className": "Muscle",
+            "hash": 2255212070,
+            "makeName": "Willard",
+            "modelName": "Faction Custom Donk"
+        },
+        "gauntlet": {
+            "className": "Muscle",
+            "hash": 2494797253,
+            "makeName": "Bravado",
+            "modelName": "Gauntlet"
+        },
+        "gauntlet2": {
+            "className": "Muscle",
+            "hash": 349315417,
+            "makeName": "Bravado",
+            "modelName": "Redwood Gauntlet"
+        },
+        "hotknife": {
+            "className": "Muscle",
+            "hash": 37348240,
+            "makeName": "Vapid",
+            "modelName": "Hotknife"
+        },
+        "lurcher": {
+            "className": "Muscle",
+            "hash": 2068293287,
+            "makeName": "Albany",
+            "modelName": "Lurcher"
+        },
+        "moonbeam": {
+            "className": "Muscle",
+            "hash": 525509695,
+            "makeName": "Declasse",
+            "modelName": "Moonbeam"
+        },
+        "moonbeam2": {
+            "className": "Muscle",
+            "hash": 1896491931,
+            "makeName": "Declasse",
+            "modelName": "Moonbeam Custom"
+        },
+        "nightshade": {
+            "className": "Muscle",
+            "hash": 2351681756,
+            "makeName": "Imponte",
+            "modelName": "Nightshade"
+        },
+        "phoenix": {
+            "className": "Muscle",
+            "hash": 2199527893,
+            "makeName": "Imponte",
+            "modelName": "Phoenix"
+        },
+        "picador": {
+            "className": "Muscle",
+            "hash": 1507916787,
+            "makeName": "Cheval",
+            "modelName": "Picador"
+        },
+        "ratloader": {
+            "className": "Muscle",
+            "hash": 3627815886,
+            "makeName": "",
+            "modelName": "Rat-Loader"
+        },
+        "ratloader2": {
+            "className": "Muscle",
+            "hash": 3705788919,
+            "makeName": "Bravado",
+            "modelName": "Rat-Truck"
+        },
+        "ruiner": {
+            "className": "Muscle",
+            "hash": 4067225593,
+            "makeName": "Imponte",
+            "modelName": "Ruiner"
+        },
+        "ruiner2": {
+            "className": "Muscle",
+            "hash": 941494461,
+            "makeName": "Imponte",
+            "modelName": "Ruiner 2000"
+        },
+        "ruiner3": {
+            "className": "Muscle",
+            "hash": 777714999,
+            "makeName": "Imponte",
+            "modelName": "Ruiner Wreck"
+        },
+        "sabregt": {
+            "className": "Muscle",
+            "hash": 2609945748,
+            "makeName": "Declasse",
+            "modelName": "Sabre Turbo"
+        },
+        "sabregt2": {
+            "className": "Muscle",
+            "hash": 223258115,
+            "makeName": "Declasse",
+            "modelName": "Sabre Turbo Custom"
+        },
+        "slamvan": {
+            "className": "Muscle",
+            "hash": 729783779,
+            "makeName": "Vapid",
+            "modelName": "Slamvan"
+        },
+        "slamvan2": {
+            "className": "Muscle",
+            "hash": 833469436,
+            "makeName": "Vapid",
+            "modelName": "Lost Slamvan"
+        },
+        "slamvan3": {
+            "className": "Muscle",
+            "hash": 1119641113,
+            "makeName": "Vapid",
+            "modelName": "Slamvan Custom"
+        },
+        "stalion": {
+            "className": "Muscle",
+            "hash": 1923400478,
+            "makeName": "Declasse",
+            "modelName": "Stallion"
+        },
+        "stalion2": {
+            "className": "Muscle",
+            "hash": 3893323758,
+            "makeName": "Declasse",
+            "modelName": "Burger Shot Stallion"
+        },
+        "tampa": {
+            "className": "Muscle",
+            "hash": 972671128,
+            "makeName": "Declasse",
+            "modelName": "Tampa"
+        },
+        "tampa3": {
+            "className": "Muscle",
+            "hash": 3084515313,
+            "makeName": "Declasse",
+            "modelName": "Weaponized Tampa"
+        },
+        "vigero": {
+            "className": "Muscle",
+            "hash": 3469130167,
+            "makeName": "Declasse",
+            "modelName": "Vigero"
+        },
+        "virgo": {
+            "className": "Muscle",
+            "hash": 3796912450,
+            "makeName": "Albany",
+            "modelName": "Virgo"
+        },
+        "virgo2": {
+            "className": "Muscle",
+            "hash": 3395457658,
+            "makeName": "Dundreary",
+            "modelName": "Virgo Classic Custom"
+        },
+        "virgo3": {
+            "className": "Muscle",
+            "hash": 16646064,
+            "makeName": "Dundreary",
+            "modelName": "Virgo Classic"
+        },
+        "voodoo": {
+            "className": "Muscle",
+            "hash": 2006667053,
+            "makeName": "Declasse",
+            "modelName": "Voodoo Custom"
+        },
+        "voodoo2": {
+            "className": "Muscle",
+            "hash": 523724515,
+            "makeName": "Declasse",
+            "modelName": "Voodoo"
+        }
+    },
+    "Off-Road": {
+        "0xA4A4E453": {
+            "className": "Off-Road",
+            "hash": 2762269779,
+            "makeName": "Vapid",
+            "modelName": "Riata"
+        },
+        "0xF8C2E0E7": {
+            "className": "Off-Road",
+            "hash": 4173521127,
+            "makeName": "Canis",
+            "modelName": "Kamacho"
+        },
+        "bfinjection": {
+            "className": "Off-Road",
+            "hash": 1126868326,
+            "makeName": "BF",
+            "modelName": "Injection"
+        },
+        "bifta": {
+            "className": "Off-Road",
+            "hash": 3945366167,
+            "makeName": "BF",
+            "modelName": "Bifta"
+        },
+        "blazer": {
+            "className": "Off-Road",
+            "hash": 2166734073,
+            "makeName": "Nagasaki",
+            "modelName": "Blazer"
+        },
+        "blazer2": {
+            "className": "Off-Road",
+            "hash": 4246935337,
+            "makeName": "Nagasaki",
+            "modelName": "Blazer Lifeguard"
+        },
+        "blazer3": {
+            "className": "Off-Road",
+            "hash": 3025077634,
+            "makeName": "Nagasaki",
+            "modelName": "Hot Rod Blazer"
+        },
+        "blazer4": {
+            "className": "Off-Road",
+            "hash": 3854198872,
+            "makeName": "Nagasaki",
+            "modelName": "Street Blazer"
+        },
+        "blazer5": {
+            "className": "Off-Road",
+            "hash": 2704629607,
+            "makeName": "Nagasaki",
+            "modelName": "Blazer Aqua"
+        },
+        "bodhi2": {
+            "className": "Off-Road",
+            "hash": 2859047862,
+            "makeName": "Canis",
+            "modelName": "Bodhi"
+        },
+        "brawler": {
+            "className": "Off-Road",
+            "hash": 2815302597,
+            "makeName": "Coil",
+            "modelName": "Brawler"
+        },
+        "dloader": {
+            "className": "Off-Road",
+            "hash": 1770332643,
+            "makeName": "Bravado",
+            "modelName": "Duneloader"
+        },
+        "dubsta3": {
+            "className": "Off-Road",
+            "hash": 3057713523,
+            "makeName": "Benefactor",
+            "modelName": "Dubsta 6x6"
+        },
+        "dune": {
+            "className": "Off-Road",
+            "hash": 2633113103,
+            "makeName": "",
+            "modelName": "Space Docker"
+        },
+        "dune2": {
+            "className": "Off-Road",
+            "hash": 534258863,
+            "makeName": "",
+            "modelName": "Space Docker"
+        },
+        "dune3": {
+            "className": "Off-Road",
+            "hash": 1897744184,
+            "makeName": "BF",
+            "modelName": "Dune FAV"
+        },
+        "dune4": {
+            "className": "Off-Road",
+            "hash": 3467805257,
+            "makeName": "",
+            "modelName": "Ramp Buggy"
+        },
+        "dune5": {
+            "className": "Off-Road",
+            "hash": 3982671785,
+            "makeName": "",
+            "modelName": "Ramp Buggy Open Cage"
+        },
+        "insurgent": {
+            "className": "Off-Road",
+            "hash": 2434067162,
+            "makeName": "HVY",
+            "modelName": "Insurgent Pick-Up"
+        },
+        "insurgent2": {
+            "className": "Off-Road",
+            "hash": 2071877360,
+            "makeName": "HVY",
+            "modelName": "Insurgent"
+        },
+        "insurgent3": {
+            "className": "Off-Road",
+            "hash": 2370534026,
+            "makeName": "HVY",
+            "modelName": "Insurgent Pick-Up Custom"
+        },
+        "kalahari": {
+            "className": "Off-Road",
+            "hash": 92612664,
+            "makeName": "Canis",
+            "modelName": "Kalahari"
+        },
+        "marshall": {
+            "className": "Off-Road",
+            "hash": 1233534620,
+            "makeName": "HVY",
+            "modelName": "Insurgent Pick-Up"
+        },
+        "mesa3": {
+            "className": "Off-Road",
+            "hash": 2230595153,
+            "makeName": "Canis",
+            "modelName": "Mesa"
+        },
+        "monster": {
+            "className": "Off-Road",
+            "hash": 3449006043,
+            "makeName": "HVY",
+            "modelName": "Insurgent Pick-Up"
+        },
+        "nightshark": {
+            "className": "Off-Road",
+            "hash": 433954513,
+            "makeName": "HVY",
+            "modelName": "Nightshark"
+        },
+        "rancherxl": {
+            "className": "Off-Road",
+            "hash": 1645267888,
+            "makeName": "Declasse",
+            "modelName": "Rancher XL"
+        },
+        "rancherxl2": {
+            "className": "Off-Road",
+            "hash": 1933662059,
+            "makeName": "Declasse",
+            "modelName": "Rancher XL Snow"
+        },
+        "rebel": {
+            "className": "Off-Road",
+            "hash": 3087195462,
+            "makeName": "Karin",
+            "modelName": "Rusty Rebel"
+        },
+        "rebel2": {
+            "className": "Off-Road",
+            "hash": 2249373259,
+            "makeName": "Karin",
+            "modelName": "Rebel"
+        },
+        "sandking": {
+            "className": "Off-Road",
+            "hash": 3105951696,
+            "makeName": "Vapid",
+            "modelName": "Sandking XL"
+        },
+        "sandking2": {
+            "className": "Off-Road",
+            "hash": 989381445,
+            "makeName": "Vapid",
+            "modelName": "Sandking SWB"
+        },
+        "technical": {
+            "className": "Off-Road",
+            "hash": 2198148358,
+            "makeName": "Karin",
+            "modelName": "Technical"
+        },
+        "technical2": {
+            "className": "Off-Road",
+            "hash": 1180875963,
+            "makeName": "Karin",
+            "modelName": "Technical Aqua"
+        },
+        "technical3": {
+            "className": "Off-Road",
+            "hash": 1356124575,
+            "makeName": "Karin",
+            "modelName": "Technical Custom"
+        },
+        "trophytruck": {
+            "className": "Off-Road",
+            "hash": 101905590,
+            "makeName": "Vapid",
+            "modelName": "Trophy Truck"
+        },
+        "trophytruck2": {
+            "className": "Off-Road",
+            "hash": 3631668194,
+            "makeName": "Vapid",
+            "modelName": "Desert Raid"
+        }
+    },
+    "Planes": {
+        "0x18606535": {
+            "className": "Planes",
+            "hash": 408970549,
+            "makeName": "Mammoth",
+            "modelName": "Avenger Custom"
+        },
+        "0x1AAD0DED": {
+            "className": "Planes",
+            "hash": 447548909,
+            "makeName": "",
+            "modelName": "Volatol"
+        },
+        "0x81BD2ED0": {
+            "className": "Planes",
+            "hash": 2176659152,
+            "makeName": "Mammoth",
+            "modelName": "Avenger"
+        },
+        "alphaz1": {
+            "className": "Planes",
+            "hash": 2771347558,
+            "makeName": "Buckingham",
+            "modelName": "Alpha-Z1"
+        },
+        "besra": {
+            "className": "Planes",
+            "hash": 1824333165,
+            "makeName": "Western",
+            "modelName": "Besra"
+        },
+        "blimp": {
+            "className": "Planes",
+            "hash": 4143991942,
+            "makeName": "",
+            "modelName": "Atomic Blimp"
+        },
+        "blimp2": {
+            "className": "Planes",
+            "hash": 3681241380,
+            "makeName": "",
+            "modelName": "Xero Blimp"
+        },
+        "bombushka": {
+            "className": "Planes",
+            "hash": 4262088844,
+            "makeName": "",
+            "modelName": "RM-10 Bombushka"
+        },
+        "cargoplane": {
+            "className": "Planes",
+            "hash": 368211810,
+            "makeName": "",
+            "modelName": "Cargo Plane"
+        },
+        "cuban800": {
+            "className": "Planes",
+            "hash": 3650256867,
+            "makeName": "",
+            "modelName": "Cuban 800"
+        },
+        "dodo": {
+            "className": "Planes",
+            "hash": 3393804037,
+            "makeName": "Mammoth",
+            "modelName": "Dodo"
+        },
+        "duster": {
+            "className": "Planes",
+            "hash": 970356638,
+            "makeName": "",
+            "modelName": "Duster"
+        },
+        "howard": {
+            "className": "Planes",
+            "hash": 3287439187,
+            "makeName": "Buckingham",
+            "modelName": "Howard NX-25"
+        },
+        "hydra": {
+            "className": "Planes",
+            "hash": 970385471,
+            "makeName": "Mammoth",
+            "modelName": "Hydra"
+        },
+        "jet": {
+            "className": "Planes",
+            "hash": 1058115860,
+            "makeName": "",
+            "modelName": "Jet"
+        },
+        "lazer": {
+            "className": "Planes",
+            "hash": 3013282534,
+            "makeName": "",
+            "modelName": "P-996 LAZER"
+        },
+        "luxor": {
+            "className": "Planes",
+            "hash": 621481054,
+            "makeName": "Buckingham",
+            "modelName": "Luxor"
+        },
+        "luxor2": {
+            "className": "Planes",
+            "hash": 3080673438,
+            "makeName": "Buckingham",
+            "modelName": "Luxor Deluxe"
+        },
+        "mammatus": {
+            "className": "Planes",
+            "hash": 2548391185,
+            "makeName": "",
+            "modelName": "Mammatus"
+        },
+        "microlight": {
+            "className": "Planes",
+            "hash": 2531412055,
+            "makeName": "Nagasaki",
+            "modelName": "Ultralight"
+        },
+        "miljet": {
+            "className": "Planes",
+            "hash": 165154707,
+            "makeName": "Buckingham",
+            "modelName": "Miljet"
+        },
+        "mogul": {
+            "className": "Planes",
+            "hash": 3545667823,
+            "makeName": "Mammoth",
+            "modelName": "Mogul"
+        },
+        "molotok": {
+            "className": "Planes",
+            "hash": 1565978651,
+            "makeName": "",
+            "modelName": "V-65 Molotok"
+        },
+        "nimbus": {
+            "className": "Planes",
+            "hash": 2999939664,
+            "makeName": "Buckingham",
+            "modelName": "Nimbus"
+        },
+        "nokota": {
+            "className": "Planes",
+            "hash": 1036591958,
+            "makeName": "",
+            "modelName": "P-45 Nokota"
+        },
+        "pyro": {
+            "className": "Planes",
+            "hash": 2908775872,
+            "makeName": "Buckingham",
+            "modelName": "Pyro"
+        },
+        "rogue": {
+            "className": "Planes",
+            "hash": 3319621991,
+            "makeName": "Western",
+            "modelName": "Rogue"
+        },
+        "seabreeze": {
+            "className": "Planes",
+            "hash": 3902291871,
+            "makeName": "Western",
+            "modelName": "Seabreeze"
+        },
+        "shamal": {
+            "className": "Planes",
+            "hash": 3080461301,
+            "makeName": "Buckingham",
+            "modelName": "Shamal"
+        },
+        "starling": {
+            "className": "Planes",
+            "hash": 2594093022,
+            "makeName": "",
+            "modelName": "LF-22 Starling"
+        },
+        "stunt": {
+            "className": "Planes",
+            "hash": 2172210288,
+            "makeName": "",
+            "modelName": "Mallard"
+        },
+        "titan": {
+            "className": "Planes",
+            "hash": 1981688531,
+            "makeName": "",
+            "modelName": "Titan"
+        },
+        "tula": {
+            "className": "Planes",
+            "hash": 1043222410,
+            "makeName": "Mammoth",
+            "modelName": "Tula"
+        },
+        "velum": {
+            "className": "Planes",
+            "hash": 2621610858,
+            "makeName": "",
+            "modelName": "Velum"
+        },
+        "velum2": {
+            "className": "Planes",
+            "hash": 1077420264,
+            "makeName": "",
+            "modelName": "Velum 5-Seater"
+        },
+        "vestra": {
+            "className": "Planes",
+            "hash": 1341619767,
+            "makeName": "Buckingham",
+            "modelName": "Vestra"
+        }
+    },
+    "SUVs": {
+        "baller": {
+            "className": "SUVs",
+            "hash": 3486135912,
+            "makeName": "Gallivanter",
+            "modelName": "Baller Mk1"
+        },
+        "baller2": {
+            "className": "SUVs",
+            "hash": 142944341,
+            "makeName": "Gallivanter",
+            "modelName": "Baller"
+        },
+        "baller3": {
+            "className": "SUVs",
+            "hash": 1878062887,
+            "makeName": "Gallivanter",
+            "modelName": "Baller LE"
+        },
+        "baller4": {
+            "className": "SUVs",
+            "hash": 634118882,
+            "makeName": "Gallivanter",
+            "modelName": "Baller LE LWB"
+        },
+        "baller5": {
+            "className": "SUVs",
+            "hash": 470404958,
+            "makeName": "Gallivanter",
+            "modelName": "Baller LE (Armored)"
+        },
+        "baller6": {
+            "className": "SUVs",
+            "hash": 666166960,
+            "makeName": "Gallivanter",
+            "modelName": "Baller LE LWB (Armored)"
+        },
+        "bjxl": {
+            "className": "SUVs",
+            "hash": 850565707,
+            "makeName": "Karin",
+            "modelName": "BeeJay XL"
+        },
+        "cavalcade": {
+            "className": "SUVs",
+            "hash": 2006918058,
+            "makeName": "Albany",
+            "modelName": "Cavalcade"
+        },
+        "cavalcade2": {
+            "className": "SUVs",
+            "hash": 3505073125,
+            "makeName": "Albany",
+            "modelName": "Cavalcade Mk2"
+        },
+        "contender": {
+            "className": "SUVs",
+            "hash": 683047626,
+            "makeName": "Vapid",
+            "modelName": "Contender"
+        },
+        "dubsta": {
+            "className": "SUVs",
+            "hash": 1177543287,
+            "makeName": "Benefactor",
+            "modelName": "Dubsta"
+        },
+        "dubsta2": {
+            "className": "SUVs",
+            "hash": 3900892662,
+            "makeName": "Benefactor",
+            "modelName": "Dubsta Black Mk2"
+        },
+        "fq2": {
+            "className": "SUVs",
+            "hash": 3157435195,
+            "makeName": "Fathom",
+            "modelName": "FQ 2"
+        },
+        "granger": {
+            "className": "SUVs",
+            "hash": 2519238556,
+            "makeName": "Declasse",
+            "modelName": "Granger"
+        },
+        "gresley": {
+            "className": "SUVs",
+            "hash": 2751205197,
+            "makeName": "Bravado",
+            "modelName": "Gresley"
+        },
+        "habanero": {
+            "className": "SUVs",
+            "hash": 884422927,
+            "makeName": "Emperor",
+            "modelName": "Habanero"
+        },
+        "huntley": {
+            "className": "SUVs",
+            "hash": 486987393,
+            "makeName": "Enus",
+            "modelName": "Huntley S"
+        },
+        "landstalker": {
+            "className": "SUVs",
+            "hash": 1269098716,
+            "makeName": "Dundreary",
+            "modelName": "Landstalker"
+        },
+        "mesa": {
+            "className": "SUVs",
+            "hash": 914654722,
+            "makeName": "Canis",
+            "modelName": "Mesa"
+        },
+        "mesa2": {
+            "className": "SUVs",
+            "hash": 3546958660,
+            "makeName": "Canis",
+            "modelName": "Mesa Snow"
+        },
+        "patriot": {
+            "className": "SUVs",
+            "hash": 3486509883,
+            "makeName": "Mammoth",
+            "modelName": "Patriot"
+        },
+        "radi": {
+            "className": "SUVs",
+            "hash": 2643899483,
+            "makeName": "Vapid",
+            "modelName": "Radius"
+        },
+        "rocoto": {
+            "className": "SUVs",
+            "hash": 2136773105,
+            "makeName": "Obey",
+            "modelName": "Rocoto"
+        },
+        "seminole": {
+            "className": "SUVs",
+            "hash": 1221512915,
+            "makeName": "Canis",
+            "modelName": "Seminole"
+        },
+        "serrano": {
+            "className": "SUVs",
+            "hash": 1337041428,
+            "makeName": "Benefactor",
+            "modelName": "Serrano"
+        },
+        "xls": {
+            "className": "SUVs",
+            "hash": 1203490606,
+            "makeName": "Benefactor",
+            "modelName": "XLS"
+        },
+        "xls2": {
+            "className": "SUVs",
+            "hash": 3862958888,
+            "makeName": "Benefactor",
+            "modelName": "XLS (Armored)"
+        }
+    },
+    "Sedans": {
+        "asea": {
+            "className": "Sedans",
+            "hash": 2485144969,
+            "makeName": "Declasse",
+            "modelName": "Asea"
+        },
+        "asea2": {
+            "className": "Sedans",
+            "hash": 2487343317,
+            "makeName": "Declasse",
+            "modelName": "Asea Snow"
+        },
+        "asterope": {
+            "className": "Sedans",
+            "hash": 2391954683,
+            "makeName": "Karin",
+            "modelName": "Asterope"
+        },
+        "cog55": {
+            "className": "Sedans",
+            "hash": 906642318,
+            "makeName": "Enus",
+            "modelName": "Cognoscenti 55"
+        },
+        "cog552": {
+            "className": "Sedans",
+            "hash": 704435172,
+            "makeName": "Enus",
+            "modelName": "Cognoscenti 55 (Armored)"
+        },
+        "cognoscenti": {
+            "className": "Sedans",
+            "hash": 2264796000,
+            "makeName": "Enus",
+            "modelName": "Cognoscenti"
+        },
+        "cognoscenti2": {
+            "className": "Sedans",
+            "hash": 3690124666,
+            "makeName": "Enus",
+            "modelName": "Cognoscenti (Armored)"
+        },
+        "emperor": {
+            "className": "Sedans",
+            "hash": 3609690755,
+            "makeName": "Albany",
+            "modelName": "Emperor"
+        },
+        "emperor2": {
+            "className": "Sedans",
+            "hash": 2411965148,
+            "makeName": "Albany",
+            "modelName": "Emperor Rusty"
+        },
+        "emperor3": {
+            "className": "Sedans",
+            "hash": 3053254478,
+            "makeName": "Albany",
+            "modelName": "Emperor Snow"
+        },
+        "fugitive": {
+            "className": "Sedans",
+            "hash": 1909141499,
+            "makeName": "Cheval",
+            "modelName": "Fugitive"
+        },
+        "glendale": {
+            "className": "Sedans",
+            "hash": 75131841,
+            "makeName": "Benefactor",
+            "modelName": "Glendale"
+        },
+        "ingot": {
+            "className": "Sedans",
+            "hash": 3005245074,
+            "makeName": "Vulcar",
+            "modelName": "Ingot"
+        },
+        "intruder": {
+            "className": "Sedans",
+            "hash": 886934177,
+            "makeName": "Karin",
+            "modelName": "Intruder"
+        },
+        "limo2": {
+            "className": "Sedans",
+            "hash": 4180339789,
+            "makeName": "Benefactor",
+            "modelName": "Turreted Limo"
+        },
+        "premier": {
+            "className": "Sedans",
+            "hash": 2411098011,
+            "makeName": "Declasse",
+            "modelName": "Premier"
+        },
+        "primo": {
+            "className": "Sedans",
+            "hash": 3144368207,
+            "makeName": "Albany",
+            "modelName": "Primo"
+        },
+        "primo2": {
+            "className": "Sedans",
+            "hash": 2254540506,
+            "makeName": "Albany",
+            "modelName": "Primo Custom"
+        },
+        "regina": {
+            "className": "Sedans",
+            "hash": 4280472072,
+            "makeName": "Dundreary",
+            "modelName": "Regina"
+        },
+        "romero": {
+            "className": "Sedans",
+            "hash": 627094268,
+            "makeName": "Chariot",
+            "modelName": "Romero Hearse"
+        },
+        "schafter2": {
+            "className": "Sedans",
+            "hash": 3039514899,
+            "makeName": "Benefactor",
+            "modelName": "Schafter"
+        },
+        "schafter5": {
+            "className": "Sedans",
+            "hash": 3406724313,
+            "makeName": "Benefactor",
+            "modelName": "Schafter V12 (Armored)"
+        },
+        "schafter6": {
+            "className": "Sedans",
+            "hash": 1922255844,
+            "makeName": "Benefactor",
+            "modelName": "Schafter LWB (Armored)"
+        },
+        "stanier": {
+            "className": "Sedans",
+            "hash": 2817386317,
+            "makeName": "Vapid",
+            "modelName": "Stanier"
+        },
+        "stratum": {
+            "className": "Sedans",
+            "hash": 1723137093,
+            "makeName": "Zirconium",
+            "modelName": "Stratum"
+        },
+        "stretch": {
+            "className": "Sedans",
+            "hash": 2333339779,
+            "makeName": "Dundreary",
+            "modelName": "Stretch"
+        },
+        "superd": {
+            "className": "Sedans",
+            "hash": 1123216662,
+            "makeName": "Enus",
+            "modelName": "Super Diamond"
+        },
+        "surge": {
+            "className": "Sedans",
+            "hash": 2400073108,
+            "makeName": "Cheval",
+            "modelName": "Surge"
+        },
+        "tailgater": {
+            "className": "Sedans",
+            "hash": 3286105550,
+            "makeName": "Obey",
+            "modelName": "Tailgater"
+        },
+        "warrener": {
+            "className": "Sedans",
+            "hash": 1373123368,
+            "makeName": "Vulcar",
+            "modelName": "Warrener"
+        },
+        "washington": {
+            "className": "Sedans",
+            "hash": 1777363799,
+            "makeName": "Albany",
+            "modelName": "Washington"
+        }
+    },
+    "Service": {
+        "airbus": {
+            "className": "Service",
+            "hash": 1283517198,
+            "makeName": "",
+            "modelName": "Airport Bus"
+        },
+        "brickade": {
+            "className": "Service",
+            "hash": 3989239879,
+            "makeName": "MTL",
+            "modelName": "Brickade"
+        },
+        "bus": {
+            "className": "Service",
+            "hash": 3581397346,
+            "makeName": "",
+            "modelName": "Bus"
+        },
+        "coach": {
+            "className": "Service",
+            "hash": 2222034228,
+            "makeName": "",
+            "modelName": "Dashound"
+        },
+        "rallytruck": {
+            "className": "Service",
+            "hash": 2191146052,
+            "makeName": "MTL",
+            "modelName": "Dune"
+        },
+        "rentalbus": {
+            "className": "Service",
+            "hash": 3196165219,
+            "makeName": "",
+            "modelName": "Rental Shuttle Bus"
+        },
+        "taxi": {
+            "className": "Service",
+            "hash": 3338918751,
+            "makeName": "",
+            "modelName": "Taxi"
+        },
+        "tourbus": {
+            "className": "Service",
+            "hash": 1941029835,
+            "makeName": "",
+            "modelName": "Tourbus"
+        },
+        "trash": {
+            "className": "Service",
+            "hash": 1917016601,
+            "makeName": "",
+            "modelName": "Trashmaster Little Pricks"
+        },
+        "trash2": {
+            "className": "Service",
+            "hash": 3039269212,
+            "makeName": "",
+            "modelName": "Trashmaster Butt Lovers"
+        },
+        "wastelander": {
+            "className": "Service",
+            "hash": 2382949506,
+            "makeName": "MTL",
+            "modelName": "Wastelander"
+        }
+    },
+    "Sports": {
+        "0x276D98A3": {
+            "className": "Sports",
+            "hash": 661493923,
+            "makeName": "Pfister",
+            "modelName": "Comet SR"
+        },
+        "0x33B98FE2": {
+            "className": "Sports",
+            "hash": 867799010,
+            "makeName": "Ocelot",
+            "modelName": "Pariah"
+        },
+        "0x41D149AA": {
+            "className": "Sports",
+            "hash": 1104234922,
+            "makeName": "Ubermacht",
+            "modelName": "Sentinel Classic"
+        },
+        "0x5D1903F9": {
+            "className": "Sports",
+            "hash": 1561920505,
+            "makeName": "Pfister",
+            "modelName": "Comet Safari"
+        },
+        "0x67D2B389": {
+            "className": "Sports",
+            "hash": 1741861769,
+            "makeName": "Benefactor",
+            "modelName": "Streiter"
+        },
+        "0x91CA96EE": {
+            "className": "Sports",
+            "hash": 2445973230,
+            "makeName": "Pfister",
+            "modelName": "Neon"
+        },
+        "0xA4D99B7D": {
+            "className": "Sports",
+            "hash": 2765724541,
+            "makeName": "Coil",
+            "modelName": "Raiden"
+        },
+        "0xE78CC3D9": {
+            "className": "Sports",
+            "hash": 3884762073,
+            "makeName": "Ubermacht",
+            "modelName": "Revolter"
+        },
+        "alpha": {
+            "className": "Sports",
+            "hash": 767087018,
+            "makeName": "Albany",
+            "modelName": "Alpha"
+        },
+        "banshee": {
+            "className": "Sports",
+            "hash": 3253274834,
+            "makeName": "Bravado",
+            "modelName": "Banshee"
+        },
+        "bestiagts": {
+            "className": "Sports",
+            "hash": 1274868363,
+            "makeName": "Grotti",
+            "modelName": "Bestia GTS"
+        },
+        "blista2": {
+            "className": "Sports",
+            "hash": 1039032026,
+            "makeName": "Dinka",
+            "modelName": "Blista Compact"
+        },
+        "blista3": {
+            "className": "Sports",
+            "hash": 3703315515,
+            "makeName": "Dinka",
+            "modelName": "Go Go Monkey Blista"
+        },
+        "buffalo": {
+            "className": "Sports",
+            "hash": 3990165190,
+            "makeName": "Bravado",
+            "modelName": "Buffalo"
+        },
+        "buffalo2": {
+            "className": "Sports",
+            "hash": 736902334,
+            "makeName": "Bravado",
+            "modelName": "Buffalo S"
+        },
+        "buffalo3": {
+            "className": "Sports",
+            "hash": 237764926,
+            "makeName": "Bravado",
+            "modelName": "Sprunk Buffalo"
+        },
+        "carbonizzare": {
+            "className": "Sports",
+            "hash": 2072687711,
+            "makeName": "Grotti",
+            "modelName": "Carbonizzare"
+        },
+        "comet2": {
+            "className": "Sports",
+            "hash": 3249425686,
+            "makeName": "Pfister",
+            "modelName": "Comet"
+        },
+        "comet3": {
+            "className": "Sports",
+            "hash": 2272483501,
+            "makeName": "Pfister",
+            "modelName": "Comet Retro Custom"
+        },
+        "coquette": {
+            "className": "Sports",
+            "hash": 108773431,
+            "makeName": "Invetero",
+            "modelName": "Coquette"
+        },
+        "elegy": {
+            "className": "Sports",
+            "hash": 196747873,
+            "makeName": "Annis",
+            "modelName": "Elegy Retro Custom"
+        },
+        "elegy2": {
+            "className": "Sports",
+            "hash": 3728579874,
+            "makeName": "Annis",
+            "modelName": "Elegy RH8"
+        },
+        "feltzer2": {
+            "className": "Sports",
+            "hash": 2299640309,
+            "makeName": "Benefactor",
+            "modelName": "Feltzer"
+        },
+        "furoregt": {
+            "className": "Sports",
+            "hash": 3205927392,
+            "makeName": "Lampadati",
+            "modelName": "Furore GT"
+        },
+        "fusilade": {
+            "className": "Sports",
+            "hash": 499169875,
+            "makeName": "Schyster",
+            "modelName": "Fusilade"
+        },
+        "futo": {
+            "className": "Sports",
+            "hash": 2016857647,
+            "makeName": "Karin",
+            "modelName": "Futo"
+        },
+        "jester": {
+            "className": "Sports",
+            "hash": 2997294755,
+            "makeName": "Dinka",
+            "modelName": "Jester"
+        },
+        "jester2": {
+            "className": "Sports",
+            "hash": 3188613414,
+            "makeName": "Dinka",
+            "modelName": "Jester (Racecar)"
+        },
+        "khamelion": {
+            "className": "Sports",
+            "hash": 544021352,
+            "makeName": "Hijak",
+            "modelName": "Khamelion"
+        },
+        "kuruma": {
+            "className": "Sports",
+            "hash": 2922118804,
+            "makeName": "Karin",
+            "modelName": "Kuruma"
+        },
+        "kuruma2": {
+            "className": "Sports",
+            "hash": 410882957,
+            "makeName": "Karin",
+            "modelName": "Kuruma (Armored)"
+        },
+        "lynx": {
+            "className": "Sports",
+            "hash": 482197771,
+            "makeName": "Ocelot",
+            "modelName": "Lynx"
+        },
+        "massacro": {
+            "className": "Sports",
+            "hash": 4152024626,
+            "makeName": "Dewbauchee",
+            "modelName": "Massacro"
+        },
+        "massacro2": {
+            "className": "Sports",
+            "hash": 3663206819,
+            "makeName": "Dewbauchee",
+            "modelName": "Massacro (Racecar)"
+        },
+        "ninef": {
+            "className": "Sports",
+            "hash": 1032823388,
+            "makeName": "Obey",
+            "modelName": "9F"
+        },
+        "ninef2": {
+            "className": "Sports",
+            "hash": 2833484545,
+            "makeName": "Obey",
+            "modelName": "9F Cabrio"
+        },
+        "omnis": {
+            "className": "Sports",
+            "hash": 3517794615,
+            "makeName": "Obey",
+            "modelName": "Omnis"
+        },
+        "penumbra": {
+            "className": "Sports",
+            "hash": 3917501776,
+            "makeName": "Maibatsu",
+            "modelName": "Penumbra"
+        },
+        "rapidgt": {
+            "className": "Sports",
+            "hash": 2360515092,
+            "makeName": "Dewbauchee",
+            "modelName": "Rapid GT"
+        },
+        "rapidgt2": {
+            "className": "Sports",
+            "hash": 1737773231,
+            "makeName": "Dewbauchee",
+            "modelName": "Rapid GT"
+        },
+        "raptor": {
+            "className": "Sports",
+            "hash": 3620039993,
+            "makeName": "BF",
+            "modelName": "Raptor"
+        },
+        "ruston": {
+            "className": "Sports",
+            "hash": 719660200,
+            "makeName": "Hijak",
+            "modelName": "Ruston"
+        },
+        "schafter3": {
+            "className": "Sports",
+            "hash": 2809443750,
+            "makeName": "Benefactor",
+            "modelName": "Schafter V12"
+        },
+        "schafter4": {
+            "className": "Sports",
+            "hash": 1489967196,
+            "makeName": "Benefactor",
+            "modelName": "Schafter LWB"
+        },
+        "schwarzer": {
+            "className": "Sports",
+            "hash": 3548084598,
+            "makeName": "Benefactor",
+            "modelName": "Schwartzer"
+        },
+        "seven70": {
+            "className": "Sports",
+            "hash": 2537130571,
+            "makeName": "Dewbauchee",
+            "modelName": "Seven-70"
+        },
+        "specter": {
+            "className": "Sports",
+            "hash": 1886268224,
+            "makeName": "Dewbauchee",
+            "modelName": "Specter"
+        },
+        "specter2": {
+            "className": "Sports",
+            "hash": 1074745671,
+            "makeName": "Dewbauchee",
+            "modelName": "Specter Custom"
+        },
+        "sultan": {
+            "className": "Sports",
+            "hash": 970598228,
+            "makeName": "Karin",
+            "modelName": "Sultan"
+        },
+        "surano": {
+            "className": "Sports",
+            "hash": 384071873,
+            "makeName": "Benefactor",
+            "modelName": "Surano"
+        },
+        "tampa2": {
+            "className": "Sports",
+            "hash": 3223586949,
+            "makeName": "Declasse",
+            "modelName": "Drift Tampa"
+        },
+        "tropos": {
+            "className": "Sports",
+            "hash": 1887331236,
+            "makeName": "Lampadati",
+            "modelName": "Tropos Rallye"
+        },
+        "verlierer2": {
+            "className": "Sports",
+            "hash": 1102544804,
+            "makeName": "Bravado",
+            "modelName": "Verlierer"
+        }
+    },
+    "Sports Classics": {
+        "0x3201DD49": {
+            "className": "Sports Classics",
+            "hash": 838982985,
+            "makeName": "Karin",
+            "modelName": "190z"
+        },
+        "0x34DBA661": {
+            "className": "Sports Classics",
+            "hash": 886810209,
+            "makeName": "Ocelot",
+            "modelName": "Stromberg"
+        },
+        "0x35DED0DD": {
+            "className": "Sports Classics",
+            "hash": 903794909,
+            "makeName": "Annis",
+            "modelName": "Savestra"
+        },
+        "0x586765FB": {
+            "className": "Sports Classics",
+            "hash": 1483171323,
+            "makeName": "Imponte",
+            "modelName": "Deluxo"
+        },
+        "0x8408F33A": {
+            "className": "Sports Classics",
+            "hash": 2215179066,
+            "makeName": "Grotti",
+            "modelName": "GT500"
+        },
+        "0xE8A8BA94": {
+            "className": "Sports Classics",
+            "hash": 3903371924,
+            "makeName": "Lampadati",
+            "modelName": "Viseris"
+        },
+        "ardent": {
+            "className": "Sports Classics",
+            "hash": 159274291,
+            "makeName": "Ocelot",
+            "modelName": "Ardent"
+        },
+        "btype": {
+            "className": "Sports Classics",
+            "hash": 117401876,
+            "makeName": "Albany",
+            "modelName": "Roosevelt"
+        },
+        "btype2": {
+            "className": "Sports Classics",
+            "hash": 3463132580,
+            "makeName": "Albany",
+            "modelName": "Fränken Stange"
+        },
+        "btype3": {
+            "className": "Sports Classics",
+            "hash": 3692679425,
+            "makeName": "Albany",
+            "modelName": "Roosevelt Valor"
+        },
+        "casco": {
+            "className": "Sports Classics",
+            "hash": 941800958,
+            "makeName": "Lampadati",
+            "modelName": "Casco"
+        },
+        "cheetah2": {
+            "className": "Sports Classics",
+            "hash": 223240013,
+            "makeName": "Grotti",
+            "modelName": "Cheetah Classic"
+        },
+        "coquette2": {
+            "className": "Sports Classics",
+            "hash": 1011753235,
+            "makeName": "Invetero",
+            "modelName": "Coquette Classic"
+        },
+        "feltzer3": {
+            "className": "Sports Classics",
+            "hash": 2728226064,
+            "makeName": "Benefactor",
+            "modelName": "Stirling GT"
+        },
+        "infernus2": {
+            "className": "Sports Classics",
+            "hash": 2889029532,
+            "makeName": "Pegassi",
+            "modelName": "Infernus Classic"
+        },
+        "jb700": {
+            "className": "Sports Classics",
+            "hash": 1051415893,
+            "makeName": "Dewbauchee",
+            "modelName": "JB 700"
+        },
+        "mamba": {
+            "className": "Sports Classics",
+            "hash": 2634021974,
+            "makeName": "Declasse",
+            "modelName": "Mamba"
+        },
+        "manana": {
+            "className": "Sports Classics",
+            "hash": 2170765704,
+            "makeName": "Albany",
+            "modelName": "Manana"
+        },
+        "monroe": {
+            "className": "Sports Classics",
+            "hash": 3861591579,
+            "makeName": "Pegassi",
+            "modelName": "Monroe"
+        },
+        "peyote": {
+            "className": "Sports Classics",
+            "hash": 1830407356,
+            "makeName": "Vapid",
+            "modelName": "Peyote"
+        },
+        "pigalle": {
+            "className": "Sports Classics",
+            "hash": 1078682497,
+            "makeName": "Lampadati",
+            "modelName": "Pigalle"
+        },
+        "rapidgt3": {
+            "className": "Sports Classics",
+            "hash": 2049897956,
+            "makeName": "Dewbauchee",
+            "modelName": "Rapid GT Classic"
+        },
+        "retinue": {
+            "className": "Sports Classics",
+            "hash": 1841130506,
+            "makeName": "Vapid",
+            "modelName": "Retinue"
+        },
+        "stinger": {
+            "className": "Sports Classics",
+            "hash": 1545842587,
+            "makeName": "Grotti",
+            "modelName": "Stinger"
+        },
+        "stingergt": {
+            "className": "Sports Classics",
+            "hash": 2196019706,
+            "makeName": "Grotti",
+            "modelName": "Stinger GT"
+        },
+        "torero": {
+            "className": "Sports Classics",
+            "hash": 1504306544,
+            "makeName": "Pegassi",
+            "modelName": "Torero"
+        },
+        "tornado": {
+            "className": "Sports Classics",
+            "hash": 464687292,
+            "makeName": "Declasse",
+            "modelName": "Tornado"
+        },
+        "tornado2": {
+            "className": "Sports Classics",
+            "hash": 1531094468,
+            "makeName": "Declasse",
+            "modelName": "Tornado Cabrio"
+        },
+        "tornado3": {
+            "className": "Sports Classics",
+            "hash": 1762279763,
+            "makeName": "Declasse",
+            "modelName": "Tornado Rusty"
+        },
+        "tornado4": {
+            "className": "Sports Classics",
+            "hash": 2261744861,
+            "makeName": "Declasse",
+            "modelName": "Tornado Cabrio Rusty"
+        },
+        "tornado5": {
+            "className": "Sports Classics",
+            "hash": 2497353967,
+            "makeName": "Declasse",
+            "modelName": "Tornado Custom"
+        },
+        "tornado6": {
+            "className": "Sports Classics",
+            "hash": 2736567667,
+            "makeName": "Declasse",
+            "modelName": "Tornado Rat Rod"
+        },
+        "turismo2": {
+            "className": "Sports Classics",
+            "hash": 3312836369,
+            "makeName": "Grotti",
+            "modelName": "Turismo Classic"
+        },
+        "ztype": {
+            "className": "Sports Classics",
+            "hash": 758895617,
+            "makeName": "Truffade",
+            "modelName": "Z-Type"
+        }
+    },
+    "Super": {
+        "0x5097F589": {
+            "className": "Super",
+            "hash": 1352136073,
+            "makeName": "Ubermacht",
+            "modelName": "SC1"
+        },
+        "0xED552C74": {
+            "className": "Super",
+            "hash": 3981782132,
+            "makeName": "Overflod",
+            "modelName": "Autarch"
+        },
+        "adder": {
+            "className": "Super",
+            "hash": 3078201489,
+            "makeName": "Truffade",
+            "modelName": "Adder"
+        },
+        "banshee2": {
+            "className": "Super",
+            "hash": 633712403,
+            "makeName": "Bravado",
+            "modelName": "Banshee 900R"
+        },
+        "bullet": {
+            "className": "Super",
+            "hash": 2598821281,
+            "makeName": "Vapid",
+            "modelName": "Bullet"
+        },
+        "cheetah": {
+            "className": "Super",
+            "hash": 2983812512,
+            "makeName": "Grotti",
+            "modelName": "Cheetah"
+        },
+        "cyclone": {
+            "className": "Super",
+            "hash": 1392481335,
+            "makeName": "Coil",
+            "modelName": "Cyclone"
+        },
+        "entityxf": {
+            "className": "Super",
+            "hash": 3003014393,
+            "makeName": "Overflod",
+            "modelName": "Entity XF"
+        },
+        "fmj": {
+            "className": "Super",
+            "hash": 1426219628,
+            "makeName": "Vapid",
+            "modelName": "FMJ"
+        },
+        "gp1": {
+            "className": "Super",
+            "hash": 1234311532,
+            "makeName": "Progen",
+            "modelName": "GP1"
+        },
+        "infernus": {
+            "className": "Super",
+            "hash": 418536135,
+            "makeName": "Pegassi",
+            "modelName": "Infernus"
+        },
+        "italigtb": {
+            "className": "Super",
+            "hash": 2246633323,
+            "makeName": "Progen",
+            "modelName": "Itali GTB"
+        },
+        "italigtb2": {
+            "className": "Super",
+            "hash": 3812247419,
+            "makeName": "Progen",
+            "modelName": "Itali GTB Custom"
+        },
+        "le7b": {
+            "className": "Super",
+            "hash": 3062131285,
+            "makeName": "Annis",
+            "modelName": "RE-7B"
+        },
+        "nero": {
+            "className": "Super",
+            "hash": 1034187331,
+            "makeName": "Truffade",
+            "modelName": "Nero"
+        },
+        "nero2": {
+            "className": "Super",
+            "hash": 1093792632,
+            "makeName": "Truffade",
+            "modelName": "Nero Custom"
+        },
+        "osiris": {
+            "className": "Super",
+            "hash": 1987142870,
+            "makeName": "Pegassi",
+            "modelName": "Osiris"
+        },
+        "penetrator": {
+            "className": "Super",
+            "hash": 2536829930,
+            "makeName": "Ocelot",
+            "modelName": "Penetrator"
+        },
+        "pfister811": {
+            "className": "Super",
+            "hash": 2465164804,
+            "makeName": "Pfister",
+            "modelName": "811"
+        },
+        "prototipo": {
+            "className": "Super",
+            "hash": 2123327359,
+            "makeName": "Grotti",
+            "modelName": "X80 Proto"
+        },
+        "reaper": {
+            "className": "Super",
+            "hash": 234062309,
+            "makeName": "Pegassi",
+            "modelName": "Reaper"
+        },
+        "sheava": {
+            "className": "Super",
+            "hash": 819197656,
+            "makeName": "Emperor",
+            "modelName": "ETR1"
+        },
+        "sultanrs": {
+            "className": "Super",
+            "hash": 3999278268,
+            "makeName": "Karin",
+            "modelName": "Sultan RS"
+        },
+        "t20": {
+            "className": "Super",
+            "hash": 1663218586,
+            "makeName": "Progen",
+            "modelName": "T20"
+        },
+        "tempesta": {
+            "className": "Super",
+            "hash": 272929391,
+            "makeName": "Pegassi",
+            "modelName": "Tempesta"
+        },
+        "turismor": {
+            "className": "Super",
+            "hash": 408192225,
+            "makeName": "Grotti",
+            "modelName": "Turismo R"
+        },
+        "tyrus": {
+            "className": "Super",
+            "hash": 2067820283,
+            "makeName": "Progen",
+            "modelName": "Tyrus"
+        },
+        "vacca": {
+            "className": "Super",
+            "hash": 338562499,
+            "makeName": "Pegassi",
+            "modelName": "Vacca"
+        },
+        "vagner": {
+            "className": "Super",
+            "hash": 1939284556,
+            "makeName": "Dewbauchee",
+            "modelName": "Vagner"
+        },
+        "vigilante": {
+            "className": "Super",
+            "hash": 3052358707,
+            "makeName": "",
+            "modelName": "Vigilante"
+        },
+        "visione": {
+            "className": "Super",
+            "hash": 3296789504,
+            "makeName": "Grotti",
+            "modelName": "Visione"
+        },
+        "voltic": {
+            "className": "Super",
+            "hash": 2672523198,
+            "makeName": "Coil",
+            "modelName": "Voltic"
+        },
+        "voltic2": {
+            "className": "Super",
+            "hash": 989294410,
+            "makeName": "Coil",
+            "modelName": "Rocket Voltic"
+        },
+        "xa21": {
+            "className": "Super",
+            "hash": 917809321,
+            "makeName": "Ocelot",
+            "modelName": "XA-21"
+        },
+        "zentorno": {
+            "className": "Super",
+            "hash": 2891838741,
+            "makeName": "Pegassi",
+            "modelName": "Zentorno"
+        }
+    },
+    "Trains": {
+        "cablecar": {
+            "className": "Trains",
+            "hash": 3334677549,
+            "makeName": "",
+            "modelName": "Cable Car ~r~ (Undrivable)"
+        },
+        "freight": {
+            "className": "Trains",
+            "hash": 1030400667,
+            "makeName": "",
+            "modelName": "Freight Train~g~ (Drivable)"
+        },
+        "freightcar": {
+            "className": "Trains",
+            "hash": 184361638,
+            "makeName": "",
+            "modelName": "Flatbed Car~r~ (Undrivable)"
+        },
+        "freightcont1": {
+            "className": "Trains",
+            "hash": 920453016,
+            "makeName": "",
+            "modelName": "Container Car 1~r~ (Undrivable)"
+        },
+        "freightcont2": {
+            "className": "Trains",
+            "hash": 240201337,
+            "makeName": "",
+            "modelName": "Container Car 2~r~ (Undrivable)"
+        },
+        "freightgrain": {
+            "className": "Trains",
+            "hash": 642617954,
+            "makeName": "",
+            "modelName": "Grain Car~r~ (Undrivable)"
+        },
+        "metrotrain": {
+            "className": "Trains",
+            "hash": 868868440,
+            "makeName": "",
+            "modelName": "Metro Passenger Train~g~ (Drivable)"
+        },
+        "tankercar": {
+            "className": "Trains",
+            "hash": 586013744,
+            "makeName": "",
+            "modelName": "Oil Tanker Car~r~ (Undrivable)"
+        }
+    },
+    "Utility": {
+        "airtug": {
+            "className": "Utility",
+            "hash": 1560980623,
+            "makeName": "",
+            "modelName": "Airtug"
+        },
+        "armytanker": {
+            "className": "Utility",
+            "hash": 3087536137,
+            "makeName": "",
+            "modelName": "Army Trailer Tanker"
+        },
+        "armytrailer": {
+            "className": "Utility",
+            "hash": 2818520053,
+            "makeName": "",
+            "modelName": "Army Trailer Flatbed"
+        },
+        "armytrailer2": {
+            "className": "Utility",
+            "hash": 2657817814,
+            "makeName": "",
+            "modelName": "Army Trailer Flatbed Driller"
+        },
+        "baletrailer": {
+            "className": "Utility",
+            "hash": 3895125590,
+            "makeName": "",
+            "modelName": "Baletrailer"
+        },
+        "boattrailer": {
+            "className": "Utility",
+            "hash": 524108981,
+            "makeName": "",
+            "modelName": "Boat Trailer"
+        },
+        "caddy": {
+            "className": "Utility",
+            "hash": 1147287684,
+            "makeName": "",
+            "modelName": "Caddy Fairway"
+        },
+        "caddy2": {
+            "className": "Utility",
+            "hash": 3757070668,
+            "makeName": "",
+            "modelName": "Caddy Civilian"
+        },
+        "caddy3": {
+            "className": "Utility",
+            "hash": 3525819835,
+            "makeName": "",
+            "modelName": "Caddy Bunker"
+        },
+        "docktrailer": {
+            "className": "Utility",
+            "hash": 2154757102,
+            "makeName": "",
+            "modelName": "Trailer Container"
+        },
+        "docktug": {
+            "className": "Utility",
+            "hash": 3410276810,
+            "makeName": "",
+            "modelName": "Docktug"
+        },
+        "forklift": {
+            "className": "Utility",
+            "hash": 1491375716,
+            "makeName": "HVY",
+            "modelName": "Forklift"
+        },
+        "freighttrailer": {
+            "className": "Utility",
+            "hash": 3517691494,
+            "makeName": "",
+            "modelName": "Trailer Flatbed tri axle"
+        },
+        "graintrailer": {
+            "className": "Utility",
+            "hash": 1019737494,
+            "makeName": "",
+            "modelName": "Trailer Grain"
+        },
+        "mower": {
+            "className": "Utility",
+            "hash": 1783355638,
+            "makeName": "",
+            "modelName": "Lawn Mower"
+        },
+        "proptrailer": {
+            "className": "Utility",
+            "hash": 356391690,
+            "makeName": "",
+            "modelName": "Trailer Meth Lab"
+        },
+        "raketrailer": {
+            "className": "Utility",
+            "hash": 390902130,
+            "makeName": "",
+            "modelName": "Trailer Scarifier Rake"
+        },
+        "ripley": {
+            "className": "Utility",
+            "hash": 3448987385,
+            "makeName": "",
+            "modelName": "Ripley"
+        },
+        "sadler": {
+            "className": "Utility",
+            "hash": 3695398481,
+            "makeName": "Vapid",
+            "modelName": "Sadler"
+        },
+        "sadler2": {
+            "className": "Utility",
+            "hash": 734217681,
+            "makeName": "Vapid",
+            "modelName": "Sadler Snow"
+        },
+        "scrap": {
+            "className": "Utility",
+            "hash": 2594165727,
+            "makeName": "",
+            "modelName": "Scrap Truck"
+        },
+        "tanker": {
+            "className": "Utility",
+            "hash": 3564062519,
+            "makeName": "",
+            "modelName": "Trailer Tanker Ron"
+        },
+        "tanker2": {
+            "className": "Utility",
+            "hash": 1956216962,
+            "makeName": "",
+            "modelName": "Trailer Tanker"
+        },
+        "towtruck": {
+            "className": "Utility",
+            "hash": 2971866336,
+            "makeName": "",
+            "modelName": "Towtruck Heavy Duty"
+        },
+        "towtruck2": {
+            "className": "Utility",
+            "hash": 3852654278,
+            "makeName": "",
+            "modelName": "Towtruck"
+        },
+        "tr2": {
+            "className": "Utility",
+            "hash": 2078290630,
+            "makeName": "",
+            "modelName": "Trailer Car Transport Empty"
+        },
+        "tr3": {
+            "className": "Utility",
+            "hash": 1784254509,
+            "makeName": "",
+            "modelName": "Boat Trailer and Boat"
+        },
+        "tr4": {
+            "className": "Utility",
+            "hash": 2091594960,
+            "makeName": "",
+            "modelName": "Trailer Car Transport"
+        },
+        "tractor": {
+            "className": "Utility",
+            "hash": 1641462412,
+            "makeName": "",
+            "modelName": "Tractor Antique"
+        },
+        "tractor2": {
+            "className": "Utility",
+            "hash": 2218488798,
+            "makeName": "Stanley",
+            "modelName": "Tractor Fieldmaster"
+        },
+        "tractor3": {
+            "className": "Utility",
+            "hash": 1445631933,
+            "makeName": "Stanley",
+            "modelName": "Tractor Fieldmaster Snow"
+        },
+        "trailerlarge": {
+            "className": "Utility",
+            "hash": 1502869817,
+            "makeName": "",
+            "modelName": "Mobile Operations Center"
+        },
+        "trailerlogs": {
+            "className": "Utility",
+            "hash": 2016027501,
+            "makeName": "",
+            "modelName": "Trailer Logging"
+        },
+        "trailers": {
+            "className": "Utility",
+            "hash": 3417488910,
+            "makeName": "",
+            "modelName": "Trailer Container/Curtain-side)"
+        },
+        "trailers2": {
+            "className": "Utility",
+            "hash": 2715434129,
+            "makeName": "",
+            "modelName": "Trailer Freight"
+        },
+        "trailers3": {
+            "className": "Utility",
+            "hash": 2236089197,
+            "makeName": "",
+            "modelName": "Trailer Freight Canvas Side"
+        },
+        "trailers4": {
+            "className": "Utility",
+            "hash": 3194418602,
+            "makeName": "",
+            "modelName": "Trailer Shipping Container"
+        },
+        "trailersmall": {
+            "className": "Utility",
+            "hash": 712162987,
+            "makeName": "",
+            "modelName": "Trailer Tradesman"
+        },
+        "trflat": {
+            "className": "Utility",
+            "hash": 2942498482,
+            "makeName": "",
+            "modelName": "Trailer Flatbed twin axle"
+        },
+        "tvtrailer": {
+            "className": "Utility",
+            "hash": 2524324030,
+            "makeName": "",
+            "modelName": "Trailer Fame or Shame TV"
+        },
+        "utillitruck": {
+            "className": "Utility",
+            "hash": 516990260,
+            "makeName": "",
+            "modelName": "Utility Truck Telephone"
+        },
+        "utillitruck2": {
+            "className": "Utility",
+            "hash": 887537515,
+            "makeName": "",
+            "modelName": "Utility Truck Plumbing"
+        },
+        "utillitruck3": {
+            "className": "Utility",
+            "hash": 2132890591,
+            "makeName": "",
+            "modelName": "Utility Truck"
+        }
+    },
+    "Vans": {
+        "bison": {
+            "className": "Vans",
+            "hash": 4278019151,
+            "makeName": "Bravado",
+            "modelName": "Bison"
+        },
+        "bison2": {
+            "className": "Vans",
+            "hash": 2072156101,
+            "makeName": "Bravado",
+            "modelName": "Bison Construction"
+        },
+        "bison3": {
+            "className": "Vans",
+            "hash": 1739845664,
+            "makeName": "Bravado",
+            "modelName": "Bison Ladder Rack"
+        },
+        "bobcatxl": {
+            "className": "Vans",
+            "hash": 1069929536,
+            "makeName": "Vapid",
+            "modelName": "Bobcat XL"
+        },
+        "boxville": {
+            "className": "Vans",
+            "hash": 2307837162,
+            "makeName": "",
+            "modelName": "Boxville"
+        },
+        "boxville2": {
+            "className": "Vans",
+            "hash": 4061868990,
+            "makeName": "",
+            "modelName": "Boxville Go Postal"
+        },
+        "boxville3": {
+            "className": "Vans",
+            "hash": 121658888,
+            "makeName": "Brute",
+            "modelName": "Boxville Humane Labs"
+        },
+        "boxville4": {
+            "className": "Vans",
+            "hash": 444171386,
+            "makeName": "Brute",
+            "modelName": "Boxville Post OP"
+        },
+        "boxville5": {
+            "className": "Vans",
+            "hash": 682434785,
+            "makeName": "",
+            "modelName": "Boxville Armored"
+        },
+        "burrito": {
+            "className": "Vans",
+            "hash": 2948279460,
+            "makeName": "Declasse",
+            "modelName": "Burrito Graphics"
+        },
+        "burrito2": {
+            "className": "Vans",
+            "hash": 3387490166,
+            "makeName": "Declasse",
+            "modelName": "Burrito Bug Stars"
+        },
+        "burrito3": {
+            "className": "Vans",
+            "hash": 2551651283,
+            "makeName": "Declasse",
+            "modelName": "Burrito"
+        },
+        "burrito4": {
+            "className": "Vans",
+            "hash": 893081117,
+            "makeName": "Declasse",
+            "modelName": "Burrito Construction"
+        },
+        "burrito5": {
+            "className": "Vans",
+            "hash": 1132262048,
+            "makeName": "Declasse",
+            "modelName": "Burrito Snow"
+        },
+        "camper": {
+            "className": "Vans",
+            "hash": 1876516712,
+            "makeName": "Brute",
+            "modelName": "Camper"
+        },
+        "gburrito": {
+            "className": "Vans",
+            "hash": 2549763894,
+            "makeName": "Declasse",
+            "modelName": "Burrito The Lost MC"
+        },
+        "gburrito2": {
+            "className": "Vans",
+            "hash": 296357396,
+            "makeName": "Declasse",
+            "modelName": "Burrito Gang"
+        },
+        "journey": {
+            "className": "Vans",
+            "hash": 4174679674,
+            "makeName": "Zirconium",
+            "modelName": "Journey"
+        },
+        "minivan": {
+            "className": "Vans",
+            "hash": 3984502180,
+            "makeName": "Vapid",
+            "modelName": "Minivan"
+        },
+        "minivan2": {
+            "className": "Vans",
+            "hash": 3168702960,
+            "makeName": "Vapid",
+            "modelName": "Minivan Custom"
+        },
+        "paradise": {
+            "className": "Vans",
+            "hash": 1488164764,
+            "makeName": "Bravado",
+            "modelName": "Paradise"
+        },
+        "pony": {
+            "className": "Vans",
+            "hash": 4175309224,
+            "makeName": "Brute",
+            "modelName": "Brute Pony (Business)"
+        },
+        "pony2": {
+            "className": "Vans",
+            "hash": 943752001,
+            "makeName": "Brute",
+            "modelName": "Brute Pony Cannabis Shop"
+        },
+        "rumpo": {
+            "className": "Vans",
+            "hash": 1162065741,
+            "makeName": "Bravado",
+            "modelName": "Rumpo Plain/Weazel"
+        },
+        "rumpo2": {
+            "className": "Vans",
+            "hash": 2518351607,
+            "makeName": "Bravado",
+            "modelName": "Rumpo Deludamol"
+        },
+        "rumpo3": {
+            "className": "Vans",
+            "hash": 1475773103,
+            "makeName": "Bravado",
+            "modelName": "Rumpo Custom"
+        },
+        "speedo": {
+            "className": "Vans",
+            "hash": 3484649228,
+            "makeName": "Vapid",
+            "modelName": "Speedo"
+        },
+        "speedo2": {
+            "className": "Vans",
+            "hash": 728614474,
+            "makeName": "Vapid",
+            "modelName": "Clown Van"
+        },
+        "surfer": {
+            "className": "Vans",
+            "hash": 699456151,
+            "makeName": "BF",
+            "modelName": "Surfer"
+        },
+        "surfer2": {
+            "className": "Vans",
+            "hash": 2983726598,
+            "makeName": "BF",
+            "modelName": "Surfer Rusty"
+        },
+        "taco": {
+            "className": "Vans",
+            "hash": 1951180813,
+            "makeName": "",
+            "modelName": "Taco Van"
+        },
+        "youga": {
+            "className": "Vans",
+            "hash": 65402552,
+            "makeName": "Bravado",
+            "modelName": "Youga"
+        },
+        "youga2": {
+            "className": "Vans",
+            "hash": 1026149675,
+            "makeName": "Bravado",
+            "modelName": "Youga Classic"
+        }
+    }
+}
